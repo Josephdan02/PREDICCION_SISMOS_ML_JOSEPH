@@ -1,0 +1,601 @@
+evento_id,fecha,latitud,longitud,localidad,departamento,magnitud,escala_magnitud,profundidad_km,distancia_km,intensidad_observada,categoria_intensidad,tipo_registro,fuente,tiene_coordenadas
+SIM-EQ00001,2011-12-19,-6.06555,-81.84424,Piura,Piura,5.0,Mw,533.0,168.9,2,Baja,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00001,2011-12-19,-4.69963,-81.06661,Talara,Piura,5.0,Mw,533.0,119.7,3,Baja,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00001,2011-12-19,-5.38456,-81.20709,Sechura,Piura,5.0,Mw,533.0,90.6,2,Baja,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00001,2011-12-19,-6.2876,-80.42913,Sullana,Piura,5.0,Mw,533.0,81.5,2,Baja,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00002,2016-09-14,-14.56593,-74.23299,Castrovirreyna,Huancavelica,4.6,Mw,11.8,177.0,5,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00003,2021-12-21,-13.46294,-72.0405,Sicuani,Cusco,4.6,Mw,24.9,30.3,7,Fuerte,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00003,2021-12-21,-13.82449,-72.44778,Espinar,Cusco,4.6,Mw,24.9,88.8,6,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00004,2010-11-23,-8.03563,-79.28378,Mórrope,Lambayeque,5.4,Mw,30.6,186.2,5,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00004,2010-11-23,-6.74171,-79.98865,Chiclayo,Lambayeque,5.4,Mw,30.6,28.1,8,Fuerte,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00004,2010-11-23,-6.01294,-79.60467,Pimentel,Lambayeque,5.4,Mw,30.6,65.1,7,Fuerte,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00004,2010-11-23,-6.02861,-80.10118,Lambayeque,Lambayeque,5.4,Mw,30.6,54.3,7,Fuerte,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00005,2024-11-10,-8.01593,-76.98303,Ambo,Huánuco,5.9,Mw,68.2,271.3,5,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00005,2024-11-10,-9.46357,-80.10501,Huánuco,Huánuco,5.9,Mw,68.2,393.7,5,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00006,2019-08-14,-12.83601,-69.80144,Cusco,Cusco,5.3,Mw,89.0,262.3,6,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00006,2019-08-14,-11.74898,-70.78579,Quillabamba,Cusco,5.3,Mw,89.0,239.1,6,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00006,2019-08-14,-11.00502,-70.78019,Sicuani,Cusco,5.3,Mw,89.0,308.7,4,Baja,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00007,2011-04-09,-8.22093,-77.27725,Lambayeque,Lambayeque,4.5,Mw,28.5,282.5,4,Baja,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00008,2012-02-25,-13.03477,-75.32533,Jauja,Junín,4.8,Mw,29.8,119.4,6,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00008,2012-02-25,-12.11028,-75.86388,Tarma,Junín,4.8,Mw,29.8,47.3,7,Fuerte,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00009,2012-07-10,-16.16624,-69.49643,Azángaro,Puno,5.8,Mw,12.7,109.3,8,Fuerte,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00010,2011-06-14,-7.3009,-74.43726,Juanjuí,San Martín,4.7,Mw,81.7,220.9,4,Baja,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00011,2014-10-04,-14.81997,-71.46205,Chala,Arequipa,4.6,Mw,59.6,110.4,5,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00011,2014-10-04,-15.87415,-73.35505,Mollendo,Arequipa,4.6,Mw,59.6,188.2,4,Baja,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00011,2014-10-04,-16.19555,-71.45087,Camaná,Arequipa,4.6,Mw,59.6,45.8,6,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00012,2024-03-06,-16.97393,-70.89821,Moquegua,Moquegua,5.4,Mw,33.7,29.5,7,Fuerte,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00012,2024-03-06,-20.29084,-69.91746,Omate,Moquegua,5.4,Mw,33.7,366.6,4,Baja,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00013,2019-04-17,-3.40585,-81.93139,Sechura,Piura,5.3,Mw,20.9,261.4,6,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00013,2019-04-17,-7.25205,-78.28385,Sullana,Piura,5.3,Mw,20.9,326.0,4,Baja,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00014,2022-08-24,-11.28545,-76.5801,Callao,Callao,5.9,Mw,22.8,165.4,6,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00014,2022-08-24,-12.31027,-77.3439,Ventanilla,Callao,5.9,Mw,22.8,25.0,8,Fuerte,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00015,2012-10-13,-11.37246,-77.5615,San Vicente de Cañete,Lima,5.4,Mw,141.4,71.4,5,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00016,2023-11-03,-11.15133,-76.32826,Huánuco,Huánuco,5.3,Mw,47.4,148.2,6,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00017,2017-04-30,-7.7504,-78.91567,Salaverry,La Libertad,5.5,Mw,13.0,49.5,7,Fuerte,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00017,2017-04-30,-8.53301,-77.759,Santiago de Chuco,La Libertad,5.5,Mw,13.0,105.4,8,Fuerte,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00017,2017-04-30,-8.55684,-78.22842,Pacasmayo,La Libertad,5.5,Mw,13.0,68.2,7,Fuerte,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00017,2017-04-30,-7.18026,-78.8049,Trujillo,La Libertad,5.5,Mw,13.0,100.1,7,Fuerte,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00018,2012-02-09,-13.15431,-74.71016,Huanta,Ayacucho,4.9,Mw,7.5,55.5,6,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00018,2012-02-09,-13.0128,-74.57762,Ayacucho,Ayacucho,4.9,Mw,7.5,35.4,7,Fuerte,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00018,2012-02-09,-13.4878,-74.22307,Lucanas,Ayacucho,4.9,Mw,7.5,67.0,6,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00018,2012-02-09,-13.1652,-73.65646,Puquio,Ayacucho,4.9,Mw,7.5,74.0,6,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00019,2023-10-10,-14.12386,-70.22276,Atico,Arequipa,4.7,Mw,76.7,234.9,5,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00019,2023-10-10,-14.5134,-74.91861,Chala,Arequipa,4.7,Mw,76.7,402.8,4,Baja,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00019,2023-10-10,-16.91523,-74.50149,Mollendo,Arequipa,4.7,Mw,76.7,347.0,4,Baja,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00020,2023-01-15,-4.67168,-77.7397,Sullana,Piura,6.4,Mw,218.1,320.2,6,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00020,2023-01-15,-4.82305,-80.89552,Sechura,Piura,6.4,Mw,218.1,30.8,6,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00021,2022-10-31,-16.60977,-73.85113,Cusco,Cusco,4.6,Mw,70.5,419.8,4,Baja,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00022,2020-01-24,-13.6869,-72.90065,Chuquibambilla,Apurímac,4.6,Mw,10.9,24.6,6,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00023,2022-11-06,-11.57478,-75.98662,La Punta,Callao,5.2,Mw,122.3,204.5,5,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00024,2020-11-19,-10.8817,-76.77679,Oxapampa,Pasco,4.6,Mw,13.1,38.9,6,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00025,2019-10-04,-7.74762,-76.29445,Juanjuí,San Martín,4.5,Mw,384.7,72.0,2,Baja,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00025,2019-10-04,-6.3129,-77.28873,Moyobamba,San Martín,4.5,Mw,384.7,160.1,4,Baja,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00025,2019-10-04,-6.84639,-76.14261,Tocache,San Martín,4.5,Mw,384.7,32.1,3,Baja,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00025,2019-10-04,-7.63653,-76.54295,Tarapoto,San Martín,4.5,Mw,384.7,75.0,3,Baja,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00026,2018-10-11,-13.97766,-76.6481,Chincha Alta,Ica,5.4,Mw,19.2,78.7,6,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00026,2018-10-11,-15.00348,-76.73673,Paracas,Ica,5.4,Mw,19.2,58.8,8,Fuerte,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00027,2022-11-03,-7.31319,-78.18453,Trujillo,La Libertad,6.3,Mw,29.0,95.8,8,Fuerte,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00027,2022-11-03,-7.31341,-79.12887,Pacasmayo,La Libertad,6.3,Mw,29.0,35.6,7,Fuerte,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00028,2024-09-11,-7.63434,-78.52362,Rodríguez de Mendoza,Amazonas,4.7,Mw,8.6,81.7,5,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00029,2018-07-11,-11.47092,-77.58114,San Vicente de Cañete,Lima,4.8,Mw,30.1,108.2,6,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00030,2014-06-24,-10.29708,-75.28092,Oxapampa,Pasco,5.3,Mw,40.6,64.4,5,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00031,2018-04-10,-15.85638,-73.6296,Puno,Puno,5.0,Mw,16.0,380.0,4,Baja,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00031,2018-04-10,-17.99915,-68.37224,Azángaro,Puno,5.0,Mw,16.0,308.5,4,Baja,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00031,2018-04-10,-16.25621,-72.68682,Lampa,Puno,5.0,Mw,16.0,284.7,4,Baja,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00031,2018-04-10,-16.90523,-67.98039,Juliaca,Puno,5.0,Mw,16.0,257.6,5,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00032,2019-03-06,-13.17493,-71.05034,Ayacucho,Ayacucho,4.5,Mw,14.2,321.1,5,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00032,2019-03-06,-15.35131,-73.8132,Lucanas,Ayacucho,4.5,Mw,14.2,278.9,5,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00032,2019-03-06,-13.55615,-70.89879,Puquio,Ayacucho,4.5,Mw,14.2,344.6,4,Baja,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00033,2025-02-04,-15.38156,-68.59849,Puno,Puno,4.8,Mw,156.2,90.9,4,Baja,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00033,2025-02-04,-15.42417,-70.19025,Azángaro,Puno,4.8,Mw,156.2,84.3,4,Baja,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00033,2025-02-04,-14.79362,-68.01921,Lampa,Puno,4.8,Mw,156.2,174.0,4,Baja,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00034,2020-12-08,-5.91257,-81.35298,Talara,Piura,4.5,Mw,8.3,146.0,5,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00034,2020-12-08,-5.53678,-80.66569,Sechura,Piura,4.5,Mw,8.3,66.3,6,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00034,2020-12-08,-5.79925,-80.83134,Piura,Piura,4.5,Mw,8.3,100.6,5,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00035,2023-08-05,-15.27863,-68.93203,Azángaro,Puno,4.7,Mw,13.2,34.6,6,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00035,2023-08-05,-15.67277,-70.06368,Puno,Puno,4.7,Mw,13.2,97.1,4,Baja,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00035,2023-08-05,-15.25196,-70.55053,Juliaca,Puno,4.7,Mw,13.2,138.7,5,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00036,2024-09-15,-9.41281,-75.97758,La Unión,Huánuco,4.5,Mw,15.3,100.7,4,Baja,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00036,2024-09-15,-10.72555,-76.71254,Ambo,Huánuco,4.5,Mw,15.3,84.2,5,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00037,2022-02-22,-14.07443,-69.13414,Sicuani,Cusco,4.6,Mw,21.8,278.6,4,Baja,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00037,2022-02-22,-15.9064,-68.90841,Quillabamba,Cusco,4.6,Mw,21.8,370.0,4,Baja,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00038,2010-07-20,-11.43239,-73.7337,Huanta,Ayacucho,5.0,Mw,18.0,161.1,5,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00038,2010-07-20,-13.1313,-76.27949,Lucanas,Ayacucho,5.0,Mw,18.0,272.9,6,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00039,2016-01-17,-10.73101,-76.81618,Casma,Áncash,4.5,Mw,14.1,122.8,5,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00040,2014-12-11,-5.55032,-79.08398,Pacasmayo,La Libertad,4.7,Mw,67.5,334.5,4,Baja,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00040,2014-12-11,-7.44958,-76.01298,Trujillo,La Libertad,4.7,Mw,67.5,401.2,3,Baja,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00041,2010-06-25,-17.98655,-72.60604,Moquegua,Moquegua,4.6,Mw,10.6,215.2,4,Baja,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00041,2010-06-25,-17.06781,-67.19001,Omate,Moquegua,4.6,Mw,10.6,379.3,5,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00042,2025-02-05,-12.35918,-77.83387,Lima,Lima,5.3,Mw,91.8,91.9,7,Fuerte,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00042,2025-02-05,-11.663,-76.75702,Chosica,Lima,5.3,Mw,91.8,48.6,6,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00043,2023-08-25,-9.92202,-76.87802,Ambo,Huánuco,5.1,Mw,74.6,51.6,5,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00043,2023-08-25,-9.94755,-75.31379,Tingo María,Huánuco,5.1,Mw,74.6,119.6,6,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00043,2023-08-25,-10.66959,-75.57174,Huánuco,Huánuco,5.1,Mw,74.6,125.0,5,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00044,2019-02-18,-12.4817,-78.37176,Lima,Lima,5.6,Mw,30.1,127.4,7,Fuerte,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00045,2010-03-11,-10.70911,-71.0914,Puerto Maldonado,Madre de Dios,5.1,Mw,20.4,290.5,5,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00046,2023-03-04,-8.80047,-74.01798,Juanjuí,San Martín,4.6,Mw,11.0,348.0,4,Baja,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00046,2023-03-04,-9.23613,-76.43341,Tarapoto,San Martín,4.6,Mw,11.0,289.6,3,Baja,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00046,2023-03-04,-8.01575,-79.26317,Moyobamba,San Martín,4.6,Mw,11.0,361.4,3,Baja,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00047,2015-10-14,-18.55062,-70.87679,Ilo,Tacna,4.5,Mw,5.7,48.7,6,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00047,2015-10-14,-18.53738,-69.87192,Locumba,Tacna,4.5,Mw,5.7,74.2,5,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00048,2013-09-26,-12.83273,-73.99768,Ayacucho,Ayacucho,4.6,Mw,15.2,38.2,6,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00048,2013-09-26,-13.03976,-73.75142,Huanta,Ayacucho,4.6,Mw,15.2,43.3,5,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00048,2013-09-26,-12.40148,-73.21652,Puquio,Ayacucho,4.6,Mw,15.2,129.5,5,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00048,2013-09-26,-13.7089,-73.54909,Lucanas,Ayacucho,4.6,Mw,15.2,88.8,5,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00049,2022-12-20,-9.01758,-74.71406,Pucallpa,Ucayali,5.2,Mw,21.6,34.4,7,Fuerte,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00049,2022-12-20,-7.90657,-76.18294,Padre Abad,Ucayali,5.2,Mw,21.6,170.1,6,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00049,2022-12-20,-6.80138,-72.79905,Atalaya,Ucayali,5.2,Mw,21.6,317.6,5,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00050,2023-01-20,-12.99496,-73.19658,Andahuaylas,Apurímac,4.6,Mw,12.4,67.8,5,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00051,2016-08-30,-12.64749,-73.67786,Huanta,Ayacucho,5.2,Mw,20.9,105.8,6,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00051,2016-08-30,-13.39109,-73.79492,Puquio,Ayacucho,5.2,Mw,20.9,42.8,7,Fuerte,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00051,2016-08-30,-13.03668,-76.14829,Lucanas,Ayacucho,5.2,Mw,20.9,217.2,6,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00051,2016-08-30,-13.4872,-73.84373,Ayacucho,Ayacucho,5.2,Mw,20.9,36.9,7,Fuerte,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00052,2019-07-20,-16.69036,-73.61525,Omate,Moquegua,5.6,Mw,15.3,322.3,6,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00053,2016-01-10,-6.52157,-78.69801,Rodríguez de Mendoza,Amazonas,4.5,Mw,9.6,85.4,5,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00054,2016-11-22,-13.2925,-77.8076,San Vicente de Cañete,Lima,5.4,Mw,30.4,183.8,6,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00055,2023-11-28,-16.79729,-70.79667,Ilo,Tacna,4.7,Mw,98.6,119.0,5,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00056,2013-01-12,-16.51829,-71.4734,Chala,Arequipa,5.0,Mw,14.8,29.0,7,Fuerte,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00057,2020-10-02,-11.05231,-73.05105,Espinar,Cusco,5.0,Mw,21.3,318.9,6,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00057,2020-10-02,-15.7828,-72.72779,Sicuani,Cusco,5.0,Mw,21.3,257.9,5,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00057,2020-10-02,-15.29043,-70.09154,Quillabamba,Cusco,5.0,Mw,21.3,258.0,6,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00058,2013-09-29,-13.26443,-74.86645,La Merced,Junín,5.4,Mw,24.0,165.7,6,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00058,2013-09-29,-11.22877,-74.97228,Satipo,Junín,5.4,Mw,24.0,61.1,7,Fuerte,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00059,2010-02-12,-16.11597,-71.42019,Sicuani,Cusco,5.4,Mw,142.6,295.1,4,Baja,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00060,2011-01-25,-14.31892,-75.84479,Ica,Ica,4.6,Mw,33.0,38.3,6,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00060,2011-01-25,-15.16716,-76.2404,Nazca,Ica,4.6,Mw,33.0,65.1,6,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00060,2011-01-25,-16.97126,-76.34328,Paracas,Ica,4.6,Mw,33.0,262.7,5,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00060,2011-01-25,-14.37521,-76.51377,Pisco,Ica,4.6,Mw,33.0,61.5,6,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00061,2021-06-25,-14.14599,-67.70404,Mazuko,Madre de Dios,5.3,Mw,14.6,188.9,6,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00061,2021-06-25,-13.33804,-70.6999,Puerto Maldonado,Madre de Dios,5.3,Mw,14.6,191.5,5,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00061,2021-06-25,-12.96924,-67.45122,Iberia,Madre de Dios,5.3,Mw,14.6,164.3,5,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00062,2018-04-07,-5.27521,-81.50428,Piura,Piura,5.3,Mw,30.8,87.7,6,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00062,2018-04-07,-4.78492,-80.61861,Sechura,Piura,5.3,Mw,30.8,53.1,6,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00062,2018-04-07,-3.69438,-79.92874,Sullana,Piura,5.3,Mw,30.8,193.6,6,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00062,2018-04-07,-4.29303,-79.8834,Paita,Piura,5.3,Mw,30.8,140.6,6,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00063,2020-01-23,-14.39152,-73.90601,Tarma,Junín,6.1,Mw,11.6,298.7,8,Fuerte,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00063,2020-01-23,-11.5883,-73.83119,Jauja,Junín,6.1,Mw,11.6,157.2,6,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00063,2020-01-23,-9.49249,-75.37528,Satipo,Junín,6.1,Mw,11.6,281.3,6,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00064,2020-05-17,-11.96,-77.04847,Cerro de Pasco,Pasco,4.7,Mw,14.4,100.5,6,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00064,2020-05-17,-12.33554,-73.88329,Oxapampa,Pasco,4.7,Mw,14.4,308.6,5,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00065,2012-09-13,-6.24552,-78.24356,Cajamarca,Cajamarca,5.0,Mw,11.2,74.5,8,Fuerte,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00066,2011-10-08,-14.53827,-71.10128,Sicuani,Cusco,5.5,Mw,8.2,182.9,6,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00067,2022-05-12,-5.15175,-79.82224,Sechura,Piura,4.5,Mw,33.5,64.4,5,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00067,2022-05-12,-4.57471,-79.93976,Piura,Piura,4.5,Mw,33.5,72.6,6,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00068,2024-03-17,-12.46461,-74.47462,Lucanas,Ayacucho,4.9,Mw,17.9,71.1,6,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00068,2024-03-17,-12.25388,-74.09218,Ayacucho,Ayacucho,4.9,Mw,17.9,48.9,6,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00068,2024-03-17,-12.92719,-73.89115,Huanta,Ayacucho,4.9,Mw,17.9,34.9,7,Fuerte,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00068,2024-03-17,-13.25286,-73.81421,Puquio,Ayacucho,4.9,Mw,17.9,70.6,6,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00069,2018-11-17,-16.23546,-69.33825,Puno,Puno,5.0,Mw,84.1,86.9,4,Baja,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00069,2018-11-17,-15.78802,-69.78117,Juliaca,Puno,5.0,Mw,84.1,20.5,5,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00069,2018-11-17,-12.12765,-70.28935,Azángaro,Puno,5.0,Mw,84.1,389.5,4,Baja,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00069,2018-11-17,-15.65683,-69.59658,Lampa,Puno,5.0,Mw,84.1,25.0,5,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00070,2018-08-27,-16.00752,-70.74422,Juliaca,Puno,5.4,Mw,29.3,53.3,6,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00070,2018-08-27,-15.6127,-70.54114,Lampa,Puno,5.4,Mw,29.3,74.4,8,Fuerte,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00071,2010-08-13,-5.82665,-78.20427,Bagua,Amazonas,5.0,Mw,16.3,32.6,6,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00071,2010-08-13,-5.56534,-79.10426,Rodríguez de Mendoza,Amazonas,5.0,Mw,16.3,105.3,6,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00072,2010-07-21,-11.85479,-75.40082,Atalaya,Ucayali,5.4,Mw,17.9,420.0,6,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00072,2010-07-21,-8.62161,-73.39117,Pucallpa,Ucayali,5.4,Mw,17.9,114.8,6,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00073,2016-10-28,-15.62014,-70.13514,Chala,Arequipa,4.6,Mw,105.9,106.8,5,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00073,2016-10-28,-15.11094,-69.90285,Atico,Arequipa,4.6,Mw,105.9,162.3,5,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00073,2016-10-28,-16.52567,-70.44576,Camaná,Arequipa,4.6,Mw,105.9,68.9,6,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00073,2016-10-28,-16.00983,-71.14331,Arequipa,Arequipa,4.6,Mw,105.9,25.0,4,Baja,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00074,2012-06-01,-14.27854,-74.48912,Paracas,Ica,5.9,Mw,111.5,183.6,5,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00075,2019-08-07,-13.36878,-73.50864,Ventanilla,Callao,4.5,Mw,32.4,420.0,5,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00076,2014-12-02,-14.70845,-72.92141,Abancay,Apurímac,6.5,Mw,21.2,209.6,8,Fuerte,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00077,2017-06-16,-17.68051,-70.41437,Ilo,Tacna,4.8,Mw,18.1,73.4,6,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00077,2017-06-16,-18.14629,-71.51912,Locumba,Tacna,4.8,Mw,18.1,108.3,5,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00078,2023-02-16,-14.78681,-76.48622,Satipo,Junín,5.0,Mw,24.1,328.9,4,Baja,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00078,2023-02-16,-11.15187,-77.11171,La Merced,Junín,5.0,Mw,24.1,250.1,6,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00079,2019-08-12,-7.26916,-77.8744,Salaverry,La Libertad,4.6,Mw,11.0,223.6,4,Baja,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00079,2019-08-12,-6.92579,-78.87411,Trujillo,La Libertad,4.6,Mw,11.0,191.7,5,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00080,2014-03-12,-8.9165,-78.75556,Santiago de Chuco,La Libertad,5.7,Mw,19.4,95.9,6,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00080,2014-03-12,-7.64305,-78.90594,Pacasmayo,La Libertad,5.7,Mw,19.4,47.5,8,Fuerte,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00080,2014-03-12,-7.71904,-79.37084,Salaverry,La Libertad,5.7,Mw,19.4,62.1,6,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00080,2014-03-12,-5.50568,-76.5261,Trujillo,La Libertad,5.7,Mw,19.4,388.4,6,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00081,2023-04-19,-16.13879,-69.42947,Espinar,Cusco,5.1,Mw,24.3,390.2,5,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00081,2023-04-19,-13.02228,-70.24839,Sicuani,Cusco,5.1,Mw,24.3,274.5,5,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00082,2013-06-14,-9.30803,-76.15207,La Merced,Junín,4.9,Mw,48.6,306.2,5,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00083,2012-12-29,-12.72312,-71.91177,Sicuani,Cusco,4.7,Mw,10.1,39.2,7,Fuerte,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00083,2012-12-29,-14.02247,-70.39829,Cusco,Cusco,4.7,Mw,10.1,207.7,5,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00083,2012-12-29,-12.46007,-71.98448,Quillabamba,Cusco,4.7,Mw,10.1,66.1,5,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00084,2022-10-21,-3.6802,-81.63167,Zarumilla,Tumbes,4.7,Mw,28.2,156.3,5,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00084,2022-10-21,-4.01384,-80.2403,Zorritos,Tumbes,4.7,Mw,28.2,55.6,5,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00084,2022-10-21,-3.33189,-80.51765,Tumbes,Tumbes,4.7,Mw,28.2,37.6,5,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00085,2021-03-10,-15.58592,-70.09809,Puno,Puno,7.0,Mw,32.7,38.1,10,Fuerte,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00085,2021-03-10,-16.35368,-69.52104,Lampa,Puno,7.0,Mw,32.7,91.6,8,Fuerte,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00086,2022-12-25,-12.39592,-71.20593,Espinar,Cusco,4.6,Mw,11.7,159.5,5,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00087,2023-04-20,-2.46956,-78.34916,Talara,Piura,5.3,Mw,6.5,355.2,5,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00087,2023-04-20,-8.37929,-81.06627,Paita,Piura,5.3,Mw,6.5,403.4,6,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00088,2013-08-27,-4.86583,-79.01447,Tarapoto,San Martín,5.2,Mw,8.5,307.3,5,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00088,2013-08-27,-2.98954,-76.73734,Juanjuí,San Martín,5.2,Mw,8.5,396.6,5,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00089,2025-02-02,-12.88289,-67.09252,Iberia,Madre de Dios,5.2,Mw,149.7,278.0,4,Baja,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00089,2025-02-02,-14.33194,-67.93798,Puerto Maldonado,Madre de Dios,5.2,Mw,149.7,261.3,5,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00090,2020-02-05,-5.5156,-81.8102,Sechura,Piura,5.4,Mw,15.1,84.1,7,Fuerte,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00090,2020-02-05,-5.56805,-80.80202,Sullana,Piura,5.4,Mw,15.1,51.3,7,Fuerte,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00091,2013-04-24,-13.12133,-72.05146,Chincha Alta,Ica,5.1,Mw,128.3,420.0,3,Baja,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00092,2023-08-14,-17.19142,-71.32404,Omate,Moquegua,5.5,Mw,24.2,32.7,8,Fuerte,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00092,2023-08-14,-16.40742,-71.43972,Ilo,Moquegua,5.5,Mw,24.2,83.8,7,Fuerte,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00093,2019-09-04,-16.39591,-71.71151,Atico,Arequipa,4.5,Mw,107.5,84.1,5,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00093,2019-09-04,-16.94622,-70.86744,Camaná,Arequipa,4.5,Mw,107.5,35.3,5,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00094,2021-09-24,-15.30055,-71.56704,Arequipa,Arequipa,4.7,Mw,44.7,68.5,5,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00094,2021-09-24,-17.42275,-73.04266,Camaná,Arequipa,4.7,Mw,44.7,245.0,6,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00095,2016-04-09,-13.93107,-77.47976,Chosica,Lima,5.0,Mw,18.4,211.7,5,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00096,2019-03-26,-11.28355,-77.29602,Yanahuanca,Pasco,4.9,Mw,20.9,169.4,4,Baja,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00097,2010-01-04,-17.0415,-69.36171,Tacna,Tacna,6.6,Mw,11.5,98.0,8,Fuerte,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00097,2010-01-04,-17.15848,-70.21926,Locumba,Tacna,6.6,Mw,11.5,76.4,8,Fuerte,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00097,2010-01-04,-16.97904,-69.7849,Ilo,Tacna,6.6,Mw,11.5,88.4,9,Fuerte,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00098,2018-12-06,-8.45501,-77.93302,Santiago de Chuco,La Libertad,8.1,Mw,12.5,97.4,11,Fuerte,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00098,2018-12-06,-7.28801,-79.02527,Trujillo,La Libertad,8.1,Mw,12.5,95.0,11,Fuerte,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00098,2018-12-06,-8.63537,-78.57065,Pacasmayo,La Libertad,8.1,Mw,12.5,62.7,11,Fuerte,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00099,2015-02-11,-11.98955,-76.68087,Pampas,Huancavelica,4.8,Mw,27.5,216.3,4,Baja,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00099,2015-02-11,-12.48343,-73.63566,Huancavelica,Huancavelica,4.8,Mw,27.5,126.8,6,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00100,2012-05-20,-13.30447,-74.23016,Ayacucho,Ayacucho,4.5,Mw,5.7,26.5,7,Fuerte,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00100,2012-05-20,-13.26357,-74.03514,Puquio,Ayacucho,4.5,Mw,5.7,36.1,6,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00101,2014-08-09,-15.80121,-68.99293,Mollendo,Arequipa,5.1,Mw,402.1,291.6,2,Baja,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00101,2014-08-09,-17.42359,-71.47654,Chala,Arequipa,5.1,Mw,402.1,148.5,2,Baja,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00101,2014-08-09,-15.85564,-73.34756,Camaná,Arequipa,5.1,Mw,402.1,177.0,2,Baja,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00101,2014-08-09,-15.88269,-71.66982,Arequipa,Arequipa,5.1,Mw,402.1,25.0,2,Baja,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00102,2024-08-05,-14.69106,-77.51447,Ica,Ica,5.6,Mw,37.2,165.5,7,Fuerte,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00102,2024-08-05,-13.07449,-78.13063,Paracas,Ica,5.6,Mw,37.2,257.6,6,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00103,2014-10-15,-16.49941,-73.78851,Atico,Arequipa,5.1,Mw,20.3,209.3,5,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00103,2014-10-15,-13.86056,-71.15771,Camaná,Arequipa,5.1,Mw,20.3,348.2,6,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00103,2014-10-15,-18.74613,-70.45195,Mollendo,Arequipa,5.1,Mw,20.3,252.1,5,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00103,2014-10-15,-18.19307,-69.19396,Arequipa,Arequipa,5.1,Mw,20.3,317.0,5,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00104,2017-04-15,-18.52269,-70.64937,Omate,Moquegua,4.5,Mw,7.1,75.7,6,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00104,2017-04-15,-17.67431,-70.71522,Ilo,Moquegua,4.5,Mw,7.1,46.5,6,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00104,2017-04-15,-17.38841,-70.62775,Moquegua,Moquegua,4.5,Mw,7.1,76.6,5,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00105,2019-06-03,-9.25522,-77.55451,Caraz,Áncash,5.5,Mw,13.4,21.2,8,Fuerte,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00105,2019-06-03,-8.86523,-78.1673,Casma,Áncash,5.5,Mw,13.4,92.9,6,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00106,2010-05-05,-12.75652,-77.5447,Barranca,Lima,4.7,Mw,28.5,90.9,5,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00106,2010-05-05,-12.38464,-77.76482,Huaral,Lima,4.7,Mw,28.5,89.0,6,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00107,2024-12-30,-5.90405,-76.6354,Tingo María,Huánuco,4.8,Mw,19.4,405.3,4,Baja,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00107,2024-12-30,-8.81159,-77.68236,Ambo,Huánuco,4.8,Mw,19.4,174.5,5,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00107,2024-12-30,-10.00123,-73.70155,Huánuco,Huánuco,4.8,Mw,19.4,285.7,5,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00108,2024-12-21,-8.17237,-77.40352,Trujillo,La Libertad,4.6,Mw,20.9,231.4,5,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00109,2017-02-25,-14.32794,-72.49633,Huanta,Ayacucho,5.0,Mw,15.5,190.1,5,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00110,2024-05-13,-10.0981,-74.05119,Yungay,Áncash,4.6,Mw,29.2,342.7,5,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00110,2024-05-13,-10.16859,-78.94369,Chimbote,Áncash,4.6,Mw,29.2,194.0,4,Baja,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00111,2014-03-14,-12.40496,-74.49767,Ayacucho,Ayacucho,6.3,Mw,8.2,54.7,8,Fuerte,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00111,2014-03-14,-12.6308,-74.16873,Lucanas,Ayacucho,6.3,Mw,8.2,22.3,9,Fuerte,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00111,2014-03-14,-13.18714,-76.07544,Puquio,Ayacucho,6.3,Mw,8.2,203.8,7,Fuerte,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00112,2024-03-31,-6.22636,-81.18245,Paita,Piura,6.2,Mw,29.2,147.5,8,Fuerte,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00113,2016-11-15,-5.72992,-79.82678,Paita,Piura,6.0,Mw,17.4,58.3,8,Fuerte,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00114,2015-05-25,-5.37215,-76.23948,Juanjuí,San Martín,5.5,Mw,20.1,94.2,8,Fuerte,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00115,2014-01-15,-4.80018,-80.15371,Piura,Piura,4.6,Mw,29.5,84.9,5,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00115,2014-01-15,-4.22059,-80.91589,Sullana,Piura,4.6,Mw,29.5,95.2,6,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00116,2012-05-25,-16.60629,-73.16516,Chala,Arequipa,4.6,Mw,26.5,181.0,5,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00117,2012-11-30,-12.33759,-72.68965,Andahuaylas,Apurímac,5.8,Mw,18.6,83.5,7,Fuerte,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00118,2012-02-04,-0.46403,-73.9522,Yurimaguas,Loreto,4.5,Mw,144.5,295.0,3,Baja,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00118,2012-02-04,-0.7599,-73.24403,Iquitos,Loreto,4.5,Mw,144.5,249.6,4,Baja,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00118,2012-02-04,-1.18227,-73.31655,Contamana,Loreto,4.5,Mw,144.5,203.2,4,Baja,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00119,2023-12-13,-15.28584,-78.23271,Pisco,Ica,5.1,Mw,34.0,272.1,5,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00119,2023-12-13,-15.11758,-75.15828,Nazca,Ica,5.1,Mw,34.0,115.7,6,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00119,2023-12-13,-15.01676,-75.44322,Ica,Ica,5.1,Mw,34.0,87.9,5,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00119,2023-12-13,-13.73766,-75.75482,Chincha Alta,Ica,5.1,Mw,34.0,70.1,8,Fuerte,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00120,2023-08-13,-5.0973,-75.39847,Yurimaguas,Loreto,4.7,Mw,7.8,263.1,5,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00120,2023-08-13,-5.11112,-73.78193,Contamana,Loreto,4.7,Mw,7.8,171.5,5,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00120,2023-08-13,-3.91969,-72.55113,Iquitos,Loreto,4.7,Mw,7.8,119.3,5,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00121,2025-04-04,-12.63172,-75.10045,Satipo,Junín,4.7,Mw,22.9,36.3,7,Fuerte,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00122,2014-01-11,-13.38712,-75.0872,Puquio,Ayacucho,6.3,Mw,17.1,37.8,7,Fuerte,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00123,2018-09-15,-6.43415,-78.75606,Lambayeque,Lambayeque,4.6,Mw,31.0,90.7,7,Fuerte,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00123,2018-09-15,-6.49954,-78.78357,Pimentel,Lambayeque,4.6,Mw,31.0,85.2,5,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00123,2018-09-15,-6.48607,-80.07127,Mórrope,Lambayeque,4.6,Mw,31.0,69.3,5,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00123,2018-09-15,-6.80547,-78.91967,Chiclayo,Lambayeque,4.6,Mw,31.0,65.1,6,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00124,2016-06-02,-14.92767,-70.05339,Juliaca,Puno,5.4,Mw,67.9,102.1,7,Fuerte,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00125,2022-12-30,-12.50445,-75.65807,Callao,Callao,5.4,Mw,25.8,147.9,6,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00126,2010-03-03,-7.6048,-74.04014,Atalaya,Ucayali,4.5,Mw,79.9,57.7,6,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00127,2018-07-10,-7.02048,-76.66231,Chiclayo,Lambayeque,5.1,Mw,65.9,334.1,4,Baja,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00127,2018-07-10,-6.32696,-82.32081,Lambayeque,Lambayeque,5.1,Mw,65.9,295.1,6,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00127,2018-07-10,-6.87491,-81.56409,Mórrope,Lambayeque,5.1,Mw,65.9,213.9,5,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00128,2020-08-10,-18.67813,-70.42408,Ilo,Tacna,5.8,Mw,125.7,33.2,6,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00128,2020-08-10,-18.11859,-71.02073,Tacna,Tacna,5.8,Mw,125.7,79.8,6,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00128,2020-08-10,-18.827,-72.12007,Locumba,Tacna,5.8,Mw,125.7,195.4,5,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00129,2019-11-02,-6.36041,-79.97828,Chiclayo,Lambayeque,4.9,Mw,125.0,63.3,5,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00129,2019-11-02,-6.8035,-79.70374,Pimentel,Lambayeque,4.9,Mw,125.0,25.0,6,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00129,2019-11-02,-7.14353,-79.77836,Mórrope,Lambayeque,4.9,Mw,125.0,27.5,6,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00130,2010-10-10,-11.59042,-75.96561,Lima,Lima,5.4,Mw,16.0,122.6,7,Fuerte,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00130,2010-10-10,-12.7642,-76.78331,Barranca,Lima,5.4,Mw,16.0,55.3,6,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00131,2018-06-20,-20.45017,-73.45145,Chala,Arequipa,4.7,Mw,145.5,420.0,4,Baja,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00132,2017-02-03,-15.08949,-68.73871,Azángaro,Puno,5.7,Mw,24.3,182.3,6,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00133,2019-08-08,-17.09522,-71.53057,Lampa,Puno,4.8,Mw,21.9,181.5,4,Baja,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00133,2019-08-08,-15.81761,-69.61133,Puno,Puno,4.8,Mw,21.9,82.1,7,Fuerte,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00134,2013-10-31,-5.83843,-79.39765,Chiclayo,Lambayeque,5.2,Mw,18.1,107.3,7,Fuerte,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00135,2010-05-21,-14.10961,-72.38943,Sicuani,Cusco,4.9,Mw,25.8,158.4,6,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00135,2010-05-21,-13.47756,-74.54219,Cusco,Cusco,4.9,Mw,25.8,351.6,5,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00136,2021-07-07,-16.98107,-76.18725,Paracas,Ica,5.0,Mw,21.7,317.4,6,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00136,2021-07-07,-15.01812,-73.69633,Pisco,Ica,5.0,Mw,21.7,183.0,5,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00137,2016-03-03,-14.0438,-67.93146,Azángaro,Puno,4.5,Mw,10.0,237.8,5,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00137,2016-03-03,-16.5089,-70.60337,Lampa,Puno,4.5,Mw,10.0,170.2,5,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00138,2022-07-24,-10.3009,-76.16191,Yanahuanca,Pasco,4.9,Mw,15.5,64.5,7,Fuerte,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00138,2022-07-24,-11.2071,-74.95414,Oxapampa,Pasco,4.9,Mw,15.5,157.6,6,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00138,2022-07-24,-11.04808,-76.85823,Cerro de Pasco,Pasco,4.9,Mw,15.5,59.2,5,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00139,2016-07-28,-14.4029,-70.93423,Sicuani,Cusco,4.8,Mw,100.1,206.5,4,Baja,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00140,2020-03-10,-18.74298,-70.88236,Omate,Moquegua,5.4,Mw,126.2,169.1,5,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00141,2013-10-09,-18.34956,-71.73414,Ilo,Tacna,4.5,Mw,84.6,107.8,4,Baja,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00142,2022-07-16,-13.64526,-79.63451,Chosica,Lima,4.8,Mw,19.2,309.5,4,Baja,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00142,2022-07-16,-14.49134,-78.38632,San Vicente de Cañete,Lima,4.8,Mw,19.2,281.2,5,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00142,2022-07-16,-11.4545,-78.05119,Lima,Lima,4.8,Mw,19.2,131.9,5,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00143,2015-12-13,-4.46306,-74.20186,Atalaya,Ucayali,4.7,Mw,101.6,391.0,4,Baja,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00143,2015-12-13,-8.46768,-71.75094,Pucallpa,Ucayali,4.7,Mw,101.6,323.6,3,Baja,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00143,2015-12-13,-6.45217,-73.38334,Padre Abad,Ucayali,4.7,Mw,101.6,217.4,5,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00144,2015-06-13,-6.91439,-78.46578,Jaén,Cajamarca,4.5,Mw,29.2,37.1,6,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00144,2015-06-13,-6.29082,-78.96519,Chota,Cajamarca,4.5,Mw,29.2,102.0,5,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00145,2022-12-12,-8.08751,-75.52039,La Unión,Huánuco,5.3,Mw,22.3,231.2,6,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00146,2022-03-25,-10.90429,-80.0576,Santiago de Chuco,La Libertad,5.1,Mw,31.5,338.6,5,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00147,2022-11-24,-5.12957,-72.96506,Yurimaguas,Loreto,4.7,Mw,90.7,119.7,4,Baja,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00147,2022-11-24,-3.45584,-73.02945,Contamana,Loreto,4.7,Mw,90.7,66.3,5,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00147,2022-11-24,-4.25272,-73.16432,Iquitos,Loreto,4.7,Mw,90.7,29.3,6,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00148,2011-02-25,-8.73391,-81.70094,Chota,Cajamarca,4.8,Mw,30.1,378.6,4,Baja,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00148,2011-02-25,-9.09437,-79.64067,Cajamarca,Cajamarca,4.8,Mw,30.1,245.4,5,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00149,2012-10-26,-8.41523,-76.1712,Atalaya,Ucayali,4.9,Mw,14.9,160.9,5,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00149,2012-10-26,-8.13957,-74.32944,Padre Abad,Ucayali,4.9,Mw,14.9,59.1,6,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00149,2012-10-26,-8.12687,-72.86068,Pucallpa,Ucayali,4.9,Mw,14.9,215.4,5,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00150,2020-06-26,-11.91532,-76.18241,La Merced,Junín,5.1,Mw,18.9,90.8,5,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00150,2020-06-26,-12.43317,-75.7232,Satipo,Junín,5.1,Mw,18.9,38.8,7,Fuerte,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00150,2020-06-26,-11.68752,-76.00421,Huancayo,Junín,5.1,Mw,18.9,89.1,6,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00150,2020-06-26,-11.49061,-75.78874,Tarma,Junín,5.1,Mw,18.9,93.4,6,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00151,2011-08-07,-18.45713,-69.31694,Tacna,Tacna,5.8,Mw,20.8,70.1,7,Fuerte,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00151,2011-08-07,-18.12071,-69.34427,Ilo,Tacna,5.8,Mw,20.8,61.2,7,Fuerte,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00152,2015-01-17,-7.35951,-78.44822,Jaén,Cajamarca,4.8,Mw,7.8,22.2,6,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00153,2024-12-10,-17.09797,-69.52353,Camaná,Arequipa,4.9,Mw,203.3,171.6,4,Baja,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00153,2024-12-10,-18.32389,-72.4295,Atico,Arequipa,4.9,Mw,203.3,258.5,5,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00154,2012-05-17,-9.27676,-76.96445,Casma,Áncash,5.0,Mw,25.2,83.8,6,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00154,2012-05-17,-9.00636,-77.04466,Yungay,Áncash,5.0,Mw,25.2,80.7,5,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00155,2023-07-10,-12.19556,-68.23898,Iberia,Madre de Dios,5.0,Mw,21.9,74.3,6,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00155,2023-07-10,-13.07096,-68.17056,Puerto Maldonado,Madre de Dios,5.0,Mw,21.9,25.0,6,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00155,2023-07-10,-11.56591,-68.93443,Mazuko,Madre de Dios,5.0,Mw,21.9,161.4,6,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00156,2012-05-29,-3.17015,-79.81213,Zarumilla,Tumbes,5.9,Mw,99.7,75.1,7,Fuerte,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00156,2012-05-29,-3.01007,-80.62524,Tumbes,Tumbes,5.9,Mw,99.7,68.9,6,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00157,2020-01-10,-6.17508,-79.67006,Lambayeque,Lambayeque,5.0,Mw,98.2,45.0,7,Fuerte,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00157,2020-01-10,-6.27267,-79.65012,Mórrope,Lambayeque,5.0,Mw,98.2,41.7,5,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00157,2020-01-10,-7.06555,-79.82861,Chiclayo,Lambayeque,5.0,Mw,98.2,74.9,5,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00158,2011-07-04,-13.90662,-77.15811,Pampas,Huancavelica,4.8,Mw,34.4,291.5,6,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00158,2011-07-04,-10.17032,-75.54672,Castrovirreyna,Huancavelica,4.8,Mw,34.4,268.3,5,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00159,2013-08-07,-11.19692,-78.4306,Cerro de Pasco,Pasco,5.0,Mw,14.8,278.0,5,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00159,2013-08-07,-8.43454,-76.31611,Oxapampa,Pasco,5.0,Mw,14.8,188.1,7,Fuerte,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00160,2019-06-22,-13.27186,-76.95245,Cañete,Lima,4.5,Mw,34.6,134.6,4,Baja,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00160,2019-06-22,-12.40253,-76.3233,Lima,Lima,4.5,Mw,34.6,77.8,7,Fuerte,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00160,2019-06-22,-14.79971,-76.3622,Barranca,Lima,4.5,Mw,34.6,310.7,3,Baja,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00160,2019-06-22,-11.50473,-76.54542,Huaral,Lima,4.5,Mw,34.6,75.6,6,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00161,2016-04-13,-12.79667,-69.28395,Cusco,Cusco,4.6,Mw,18.4,271.1,5,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00161,2016-04-13,-16.33541,-72.344,Quillabamba,Cusco,4.6,Mw,18.4,370.3,3,Baja,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00162,2021-12-22,-18.47541,-70.26883,Locumba,Tacna,4.9,Mw,8.4,69.2,5,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00162,2021-12-22,-16.80004,-68.34955,Ilo,Tacna,4.9,Mw,8.4,303.8,5,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00162,2021-12-22,-18.26403,-70.52181,Tacna,Tacna,4.9,Mw,8.4,35.3,6,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00163,2014-08-18,-4.25978,-81.19634,Zarumilla,Tumbes,5.0,Mw,10.6,117.9,5,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00164,2012-12-16,-12.77454,-68.58176,Puerto Maldonado,Madre de Dios,5.3,Mw,18.6,82.0,6,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00165,2021-11-29,-18.28951,-68.47929,Ilo,Tacna,5.1,Mw,42.1,196.7,5,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00165,2021-11-29,-20.82955,-72.61052,Tacna,Tacna,5.1,Mw,42.1,373.3,4,Baja,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00166,2012-11-08,-17.40341,-70.00962,Ilo,Moquegua,4.5,Mw,8.7,144.9,5,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00167,2012-11-21,-9.0916,-74.71686,Atalaya,Ucayali,5.0,Mw,47.0,49.7,7,Fuerte,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00168,2013-12-12,-8.62559,-74.50583,Padre Abad,Ucayali,5.4,Mw,20.2,25.2,8,Fuerte,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00169,2015-12-14,-16.67269,-69.72513,Puno,Puno,4.6,Mw,26.0,103.9,5,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00169,2015-12-14,-15.02487,-71.08195,Azángaro,Puno,4.6,Mw,26.0,158.7,5,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00170,2012-03-31,-9.11787,-77.98523,Caraz,Áncash,4.7,Mw,108.8,67.4,5,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00171,2019-12-09,-13.01333,-71.8665,Quillabamba,Cusco,5.7,Mw,119.6,29.0,7,Fuerte,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00171,2019-12-09,-11.79338,-72.72613,Cusco,Cusco,5.7,Mw,119.6,178.3,6,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00171,2019-12-09,-12.35725,-72.29753,Sicuani,Cusco,5.7,Mw,119.6,102.7,5,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00172,2017-07-01,-6.65289,-79.83363,Mórrope,Lambayeque,6.1,Mw,431.0,34.5,5,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00173,2024-08-03,-14.34155,-73.19457,Abancay,Apurímac,4.8,Mw,10.7,42.2,6,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00174,2011-06-12,-4.4545,-81.33061,Piura,Piura,5.4,Mw,6.0,76.6,6,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00175,2017-08-15,-13.05021,-76.53474,Paracas,Ica,4.9,Mw,34.0,104.8,6,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00176,2024-05-13,-9.06563,-74.38381,Atalaya,Ucayali,4.5,Mw,7.1,25.8,7,Fuerte,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00176,2024-05-13,-8.80046,-73.92895,Padre Abad,Ucayali,4.5,Mw,7.1,48.0,6,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00177,2024-06-23,-17.10143,-71.63265,Moquegua,Moquegua,6.0,Mw,98.3,53.0,7,Fuerte,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00177,2024-06-23,-17.09277,-71.59666,Omate,Moquegua,6.0,Mw,98.3,51.6,7,Fuerte,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00178,2016-01-09,-13.72872,-72.59663,Lucanas,Ayacucho,5.0,Mw,28.2,181.3,6,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00179,2015-04-23,-8.06402,-79.32533,Pacasmayo,La Libertad,4.8,Mw,74.8,39.8,5,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00180,2016-07-04,-2.72433,-73.61715,Yurimaguas,Loreto,5.5,Mw,55.4,105.9,8,Fuerte,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00180,2016-07-04,-5.06504,-74.00813,Iquitos,Loreto,5.5,Mw,55.4,170.7,6,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00181,2021-05-09,-18.00461,-70.47567,Ilo,Tacna,4.6,Mw,173.9,30.6,5,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00181,2021-05-09,-18.87579,-68.56291,Tacna,Tacna,4.6,Mw,173.9,220.2,4,Baja,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00181,2021-05-09,-17.11234,-70.30983,Locumba,Tacna,4.6,Mw,173.9,74.5,4,Baja,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00182,2022-01-24,-13.35869,-73.46531,Andahuaylas,Apurímac,4.8,Mw,12.0,79.3,6,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00182,2022-01-24,-13.94214,-72.67705,Abancay,Apurímac,4.8,Mw,12.0,27.8,7,Fuerte,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00182,2022-01-24,-13.82713,-72.24756,Chuquibambilla,Apurímac,4.8,Mw,12.0,66.7,6,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00183,2010-08-15,-5.91888,-80.44078,Lambayeque,Lambayeque,4.5,Mw,10.6,152.0,4,Baja,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00183,2010-08-15,-7.12487,-79.47035,Mórrope,Lambayeque,4.5,Mw,10.6,35.2,6,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00183,2010-08-15,-7.7679,-78.22884,Chiclayo,Lambayeque,4.5,Mw,10.6,186.1,4,Baja,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00183,2010-08-15,-6.73345,-81.0411,Pimentel,Lambayeque,4.5,Mw,10.6,144.5,4,Baja,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00184,2024-10-27,-5.39934,-79.39079,Chachapoyas,Amazonas,5.2,Mw,14.3,183.4,4,Baja,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00184,2024-10-27,-6.38563,-78.59397,Bagua,Amazonas,5.2,Mw,14.3,86.1,6,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00184,2024-10-27,-6.90966,-79.87213,Rodríguez de Mendoza,Amazonas,5.2,Mw,14.3,238.7,6,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00185,2019-05-10,-11.73547,-75.03407,Cerro de Pasco,Pasco,4.6,Mw,5.1,129.7,5,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00185,2019-05-10,-10.95103,-75.87153,Oxapampa,Pasco,4.6,Mw,5.1,20.1,7,Fuerte,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00186,2024-11-22,-5.87097,-80.03699,Mórrope,Lambayeque,5.0,Mw,506.6,35.5,2,Baja,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00186,2024-11-22,-5.22283,-79.04146,Pimentel,Lambayeque,5.0,Mw,506.6,98.1,2,Baja,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00187,2010-04-03,-9.92275,-79.19052,Pacasmayo,La Libertad,4.6,Mw,6.5,194.4,5,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00188,2013-06-15,-7.14444,-80.93761,Jaén,Cajamarca,4.7,Mw,31.6,277.2,6,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00189,2017-08-22,-17.09229,-71.90505,Chala,Arequipa,4.8,Mw,13.8,84.0,6,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00189,2017-08-22,-17.96991,-70.72743,Mollendo,Arequipa,4.8,Mw,13.8,107.6,6,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00190,2015-12-08,-11.45301,-74.41336,Satipo,Junín,5.8,Mw,18.4,87.1,7,Fuerte,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00191,2021-12-13,-7.29296,-79.48957,Talara,Piura,5.6,Mw,19.5,238.6,5,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00191,2021-12-13,-5.29655,-78.76796,Paita,Piura,5.6,Mw,19.5,162.0,6,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00192,2013-10-12,-12.14037,-74.93474,Tarma,Junín,5.5,Mw,35.5,41.3,8,Fuerte,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00192,2013-10-12,-9.67121,-76.31191,Huancayo,Junín,5.5,Mw,35.5,274.4,5,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00193,2020-04-23,-12.49836,-77.32217,San Vicente de Cañete,Lima,5.3,Mw,31.6,69.3,6,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00193,2020-04-23,-14.17187,-76.04937,Lima,Lima,5.3,Mw,31.6,236.3,5,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00193,2020-04-23,-13.04687,-76.38606,Huaral,Lima,5.3,Mw,31.6,106.6,6,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00193,2020-04-23,-10.73328,-77.84745,Cañete,Lima,5.3,Mw,31.6,196.8,5,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00194,2012-06-06,-12.05744,-76.18403,Callao,Callao,5.3,Mw,14.5,101.8,7,Fuerte,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00194,2012-06-06,-10.968,-76.77665,La Punta,Callao,5.3,Mw,14.5,57.8,7,Fuerte,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00194,2012-06-06,-10.97445,-77.32544,Ventanilla,Callao,5.3,Mw,14.5,71.8,6,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00195,2021-04-25,-13.28286,-71.89711,Cusco,Cusco,6.1,Mw,13.3,63.8,8,Fuerte,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00196,2021-07-12,-10.38244,-75.58297,Ambo,Huánuco,4.7,Mw,7.8,24.3,6,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00197,2023-04-21,-6.88974,-80.11772,Chiclayo,Lambayeque,4.6,Mw,18.2,60.0,6,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00197,2023-04-21,-6.41694,-80.73435,Pimentel,Lambayeque,4.6,Mw,18.2,75.8,5,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00198,2023-11-27,-14.33851,-75.43462,Chincha Alta,Ica,5.9,Mw,27.7,85.2,8,Fuerte,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00198,2023-11-27,-13.86377,-75.44603,Pisco,Ica,5.9,Mw,27.7,37.0,8,Fuerte,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00198,2023-11-27,-12.84072,-75.65964,Ica,Ica,5.9,Mw,27.7,84.5,7,Fuerte,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00198,2023-11-27,-13.42815,-75.35527,Paracas,Ica,5.9,Mw,27.7,38.0,8,Fuerte,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00199,2025-02-24,-13.06118,-76.17363,Tarma,Junín,5.4,Mw,32.8,131.0,6,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00199,2025-02-24,-12.49705,-75.33576,Satipo,Junín,5.4,Mw,32.8,53.7,7,Fuerte,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00199,2025-02-24,-11.70191,-74.86289,Huancayo,Junín,5.4,Mw,32.8,83.4,6,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00199,2025-02-24,-12.2089,-75.1926,Jauja,Junín,5.4,Mw,32.8,41.3,7,Fuerte,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00200,2010-05-11,-9.05302,-79.82376,Santiago de Chuco,La Libertad,5.3,Mw,11.6,78.8,7,Fuerte,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00201,2020-03-19,-12.59054,-74.35849,Nazca,Ica,5.3,Mw,5.6,223.4,6,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00202,2019-08-17,-8.71587,-77.76509,Chimbote,Áncash,4.7,Mw,30.2,74.5,5,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00202,2019-08-17,-9.69854,-77.86124,Huaraz,Áncash,4.7,Mw,30.2,62.8,6,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00203,2019-11-09,-11.79519,-76.40505,Jauja,Junín,5.0,Mw,70.4,106.3,5,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00204,2013-05-16,-17.67262,-70.22657,Omate,Moquegua,4.7,Mw,16.7,89.8,6,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00204,2013-05-16,-16.96668,-71.51128,Moquegua,Moquegua,4.7,Mw,16.7,105.4,6,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00205,2016-04-27,-14.69878,-71.96622,Quillabamba,Cusco,4.7,Mw,8.6,57.7,6,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00205,2016-04-27,-15.54609,-70.84936,Cusco,Cusco,4.7,Mw,8.6,185.5,5,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00206,2016-02-19,-12.97543,-77.58421,Ventanilla,Callao,5.5,Mw,112.5,92.9,6,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00206,2016-02-19,-12.83821,-77.06016,Callao,Callao,5.5,Mw,112.5,80.2,6,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00206,2016-02-19,-12.23166,-78.20683,La Punta,Callao,5.5,Mw,112.5,93.8,7,Fuerte,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00207,2013-05-04,-16.40398,-69.77984,Lampa,Puno,4.7,Mw,24.8,68.3,6,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00207,2013-05-04,-15.92554,-71.11077,Puno,Puno,4.7,Mw,24.8,109.9,5,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00207,2013-05-04,-15.53337,-70.30842,Azángaro,Puno,4.7,Mw,24.8,43.7,6,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00207,2013-05-04,-15.74901,-69.84484,Juliaca,Puno,4.7,Mw,24.8,28.4,7,Fuerte,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00208,2016-07-10,-13.86994,-74.69015,Puquio,Ayacucho,6.1,Mw,31.3,47.4,7,Fuerte,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00209,2011-05-22,-17.51227,-69.85779,Locumba,Tacna,5.4,Mw,13.2,32.9,7,Fuerte,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00209,2011-05-22,-17.27062,-69.83946,Tacna,Tacna,5.4,Mw,13.2,37.7,8,Fuerte,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00209,2011-05-22,-17.41552,-70.46254,Ilo,Tacna,5.4,Mw,13.2,32.5,7,Fuerte,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00210,2025-03-09,-13.66423,-73.35748,Andahuaylas,Apurímac,4.6,Mw,11.6,27.3,5,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00210,2025-03-09,-13.80944,-73.49841,Chuquibambilla,Apurímac,4.6,Mw,11.6,28.6,5,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00211,2012-05-03,-13.66085,-74.37146,Ayacucho,Ayacucho,5.3,Mw,10.5,35.5,7,Fuerte,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00211,2012-05-03,-12.8995,-74.67146,Lucanas,Ayacucho,5.3,Mw,10.5,69.3,7,Fuerte,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00212,2019-12-30,-14.48897,-73.61705,Abancay,Apurímac,4.6,Mw,134.6,52.0,5,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00212,2019-12-30,-13.66796,-73.50949,Chuquibambilla,Apurímac,4.6,Mw,134.6,55.3,5,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00212,2019-12-30,-13.82792,-74.12642,Andahuaylas,Apurímac,4.6,Mw,134.6,93.9,4,Baja,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00213,2024-07-23,-15.70373,-72.11962,Arequipa,Arequipa,4.6,Mw,16.0,174.2,4,Baja,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00213,2024-07-23,-16.91493,-71.25983,Chala,Arequipa,4.6,Mw,16.0,54.0,5,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00213,2024-07-23,-17.3655,-69.6703,Atico,Arequipa,4.6,Mw,16.0,145.4,5,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00213,2024-07-23,-16.32355,-71.46884,Mollendo,Arequipa,4.6,Mw,16.0,78.2,6,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00214,2021-03-07,-9.31725,-77.01889,Chimbote,Áncash,5.6,Mw,16.1,75.5,7,Fuerte,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00214,2021-03-07,-10.30596,-77.22003,Huaraz,Áncash,5.6,Mw,16.1,88.8,6,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00214,2021-03-07,-9.85896,-78.01434,Casma,Áncash,5.6,Mw,16.1,49.1,9,Fuerte,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00215,2011-06-19,-11.56731,-69.83513,Mazuko,Madre de Dios,5.0,Mw,32.2,139.3,6,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00215,2011-06-19,-13.57786,-69.17374,Iberia,Madre de Dios,5.0,Mw,32.2,98.3,6,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00215,2011-06-19,-12.3702,-69.42819,Puerto Maldonado,Madre de Dios,5.0,Mw,32.2,39.9,6,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00216,2017-05-07,-5.58606,-82.69212,Zorritos,Tumbes,4.7,Mw,20.6,347.4,4,Baja,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00216,2017-05-07,-3.49927,-83.09336,Zarumilla,Tumbes,4.7,Mw,20.6,287.8,4,Baja,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00217,2017-04-10,-6.99195,-79.31865,Santiago de Chuco,La Libertad,5.2,Mw,6.0,180.2,5,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00217,2017-04-10,-8.88986,-79.81759,Trujillo,La Libertad,5.2,Mw,6.0,62.7,7,Fuerte,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00218,2019-10-18,-17.75319,-70.9646,Tacna,Tacna,4.6,Mw,30.8,56.4,7,Fuerte,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00219,2025-02-11,-5.43665,-81.7539,Zorritos,Tumbes,4.7,Mw,23.4,184.4,4,Baja,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00219,2025-02-11,-7.21864,-79.9772,Tumbes,Tumbes,4.7,Mw,23.4,398.1,5,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00219,2025-02-11,-3.14826,-79.71099,Zarumilla,Tumbes,4.7,Mw,23.4,186.2,4,Baja,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00220,2012-09-07,-14.47278,-72.72047,Andahuaylas,Apurímac,5.3,Mw,8.5,25.0,7,Fuerte,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00220,2012-09-07,-14.17486,-72.94017,Abancay,Apurímac,5.3,Mw,8.5,25.5,8,Fuerte,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00220,2012-09-07,-13.78468,-72.16263,Chuquibambilla,Apurímac,5.3,Mw,8.5,78.6,6,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00221,2015-02-16,-12.92336,-73.76338,Lucanas,Ayacucho,6.1,Mw,5.4,57.4,8,Fuerte,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00221,2015-02-16,-13.16879,-72.93098,Ayacucho,Ayacucho,6.1,Mw,5.4,117.9,8,Fuerte,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00222,2022-01-02,-7.12103,-79.31688,Talara,Piura,4.7,Mw,24.7,221.1,4,Baja,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00222,2022-01-02,-7.2806,-79.96881,Paita,Piura,4.7,Mw,24.7,202.9,4,Baja,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00222,2022-01-02,-3.96109,-79.87125,Piura,Piura,4.7,Mw,24.7,190.5,5,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00222,2022-01-02,-4.07885,-77.44477,Sechura,Piura,4.7,Mw,24.7,378.5,5,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00223,2020-07-07,-15.80212,-74.90362,Tarma,Junín,5.9,Mw,29.5,364.1,5,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00223,2020-07-07,-9.1754,-74.20582,Jauja,Junín,5.9,Mw,29.5,382.9,6,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00223,2020-07-07,-14.35475,-73.56291,La Merced,Junín,5.9,Mw,29.5,259.3,6,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00224,2013-04-26,-17.05655,-71.13767,Ilo,Moquegua,4.9,Mw,54.5,25.9,7,Fuerte,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00224,2013-04-26,-17.88161,-72.55324,Omate,Moquegua,4.9,Mw,54.5,150.1,5,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00225,2015-04-12,-13.26665,-67.97318,Mazuko,Madre de Dios,7.1,Mw,8.8,112.9,10,Fuerte,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00225,2015-04-12,-12.36297,-70.2723,Puerto Maldonado,Madre de Dios,7.1,Mw,8.8,169.9,9,Fuerte,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00225,2015-04-12,-13.03958,-68.36482,Iberia,Madre de Dios,7.1,Mw,8.8,75.7,9,Fuerte,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00226,2011-01-14,-6.45696,-77.73237,Lambayeque,Lambayeque,5.3,Mw,33.2,169.0,6,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00226,2011-01-14,-9.03402,-78.26893,Mórrope,Lambayeque,5.3,Mw,33.2,288.0,5,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00227,2017-12-19,-17.72648,-70.58998,Chala,Arequipa,5.1,Mw,144.6,164.0,4,Baja,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00227,2017-12-19,-13.42643,-73.29143,Mollendo,Arequipa,5.1,Mw,144.6,407.1,3,Baja,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00227,2017-12-19,-13.6502,-71.64506,Arequipa,Arequipa,5.1,Mw,144.6,350.3,4,Baja,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00227,2017-12-19,-17.19477,-68.73462,Atico,Arequipa,5.1,Mw,144.6,328.1,4,Baja,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00228,2019-01-21,-12.14623,-74.43765,Satipo,Junín,5.4,Mw,20.4,100.7,6,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00228,2019-01-21,-12.23053,-75.71858,Huancayo,Junín,5.4,Mw,20.4,40.3,6,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00229,2017-12-16,-18.74223,-70.34853,Ilo,Tacna,5.1,Mw,27.8,63.3,7,Fuerte,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00229,2017-12-16,-19.09814,-70.39392,Locumba,Tacna,5.1,Mw,27.8,102.8,6,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00229,2017-12-16,-18.62807,-71.07378,Tacna,Tacna,5.1,Mw,27.8,89.6,6,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00230,2021-11-20,-10.14357,-76.41259,La Unión,Huánuco,5.4,Mw,9.5,36.2,9,Fuerte,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00230,2021-11-20,-9.48022,-75.97048,Ambo,Huánuco,5.4,Mw,9.5,54.1,7,Fuerte,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00230,2021-11-20,-9.73902,-76.23622,Huánuco,Huánuco,5.4,Mw,9.5,22.7,8,Fuerte,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00230,2021-11-20,-10.02381,-76.37374,Tingo María,Huánuco,5.4,Mw,9.5,25.4,9,Fuerte,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00231,2017-01-09,-12.02243,-77.26647,Ventanilla,Callao,5.2,Mw,149.0,21.8,4,Baja,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00231,2017-01-09,-10.50207,-78.18732,La Punta,Callao,5.2,Mw,149.0,174.4,5,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00232,2012-04-27,-5.11095,-80.43498,Chiclayo,Lambayeque,5.4,Mw,34.1,227.7,6,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00232,2012-04-27,-7.61006,-80.39624,Lambayeque,Lambayeque,5.4,Mw,34.1,64.6,6,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00233,2023-04-03,-11.89212,-78.441,Callao,Callao,4.8,Mw,65.2,73.4,5,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00233,2023-04-03,-10.7165,-76.45375,La Punta,Callao,4.8,Mw,65.2,184.5,5,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00234,2019-06-24,-8.13159,-75.60485,La Unión,Huánuco,5.3,Mw,18.7,261.1,5,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00234,2019-06-24,-11.43791,-78.35491,Huánuco,Huánuco,5.3,Mw,18.7,236.8,6,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00234,2019-06-24,-7.88834,-73.96527,Tingo María,Huánuco,5.3,Mw,18.7,386.9,6,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00235,2023-01-16,-13.47539,-72.83857,Espinar,Cusco,5.1,Mw,17.4,73.2,6,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00235,2023-01-16,-13.18627,-72.92059,Sicuani,Cusco,5.1,Mw,17.4,78.9,6,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00236,2015-06-14,-12.69354,-72.93298,Andahuaylas,Apurímac,4.7,Mw,34.7,85.3,5,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00236,2015-06-14,-12.31271,-72.76937,Abancay,Apurímac,4.7,Mw,34.7,125.7,5,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00237,2022-06-22,-6.89874,-82.91736,Paita,Piura,5.0,Mw,13.2,299.5,5,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00237,2022-06-22,-2.68788,-78.68406,Piura,Piura,5.0,Mw,13.2,386.6,6,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00237,2022-06-22,-2.47961,-79.2575,Sechura,Piura,5.0,Mw,13.2,379.1,4,Baja,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00237,2022-06-22,-5.55609,-82.05585,Sullana,Piura,5.0,Mw,13.2,171.3,5,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00238,2023-12-30,-12.47596,-70.52666,Puerto Maldonado,Madre de Dios,6.2,Mw,98.2,129.2,6,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00239,2024-02-25,-12.96461,-73.62733,Lucanas,Ayacucho,4.7,Mw,16.9,34.8,7,Fuerte,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00239,2024-02-25,-15.84051,-75.03316,Puquio,Ayacucho,4.7,Mw,16.9,319.8,4,Baja,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00240,2019-10-17,-12.11282,-75.45472,Pampas,Huancavelica,4.8,Mw,11.5,96.5,6,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00240,2019-10-17,-12.74107,-75.41017,Castrovirreyna,Huancavelica,4.8,Mw,11.5,44.6,6,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00241,2013-01-28,-12.05209,-72.39196,Cusco,Cusco,4.7,Mw,11.6,158.4,4,Baja,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00242,2011-11-28,-19.98031,-67.48325,Ilo,Tacna,4.8,Mw,50.8,384.9,4,Baja,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00243,2022-06-08,-6.71843,-80.15433,Lambayeque,Lambayeque,5.6,Mw,22.4,34.2,8,Fuerte,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00243,2022-06-08,-6.44942,-79.5951,Mórrope,Lambayeque,5.6,Mw,22.4,79.4,5,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00244,2014-05-18,-16.36362,-71.26303,Camaná,Arequipa,5.1,Mw,330.5,25.0,4,Baja,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00244,2014-05-18,-15.93433,-73.32792,Arequipa,Arequipa,5.1,Mw,330.5,206.7,3,Baja,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00244,2014-05-18,-15.66422,-72.89452,Chala,Arequipa,5.1,Mw,330.5,168.9,3,Baja,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00244,2014-05-18,-15.7731,-70.69539,Atico,Arequipa,5.1,Mw,330.5,88.5,4,Baja,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00245,2019-01-20,-11.29589,-74.13876,Huanta,Ayacucho,5.5,Mw,15.3,178.6,5,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00245,2019-01-20,-15.21197,-73.11583,Ayacucho,Ayacucho,5.5,Mw,15.3,272.9,6,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00246,2020-06-15,-11.52273,-77.05981,Cañete,Lima,5.6,Mw,32.3,77.5,8,Fuerte,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00247,2013-01-06,-5.64114,-79.88392,Talara,Piura,5.2,Mw,31.1,63.4,6,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00248,2016-09-21,-13.88069,-76.00591,Chincha Alta,Ica,5.7,Mw,32.7,39.3,7,Fuerte,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00248,2016-09-21,-13.47764,-76.09252,Pisco,Ica,5.7,Mw,32.7,20.4,8,Fuerte,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00249,2024-01-19,-13.12481,-78.02523,Huaraz,Áncash,4.6,Mw,34.9,362.3,4,Baja,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00249,2024-01-19,-9.77577,-77.20425,Chimbote,Áncash,4.6,Mw,34.9,89.4,6,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00250,2013-03-14,-3.60992,-80.46732,Zorritos,Tumbes,4.6,Mw,129.8,34.4,6,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00250,2013-03-14,-3.98052,-80.46285,Zarumilla,Tumbes,4.6,Mw,129.8,66.6,5,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00250,2013-03-14,-1.67158,-80.05859,Tumbes,Tumbes,4.6,Mw,129.8,196.6,4,Baja,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00251,2016-03-02,-8.96356,-81.30678,Chiclayo,Lambayeque,4.6,Mw,86.4,246.4,5,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00251,2016-03-02,-6.07618,-78.63783,Lambayeque,Lambayeque,4.6,Mw,86.4,215.0,4,Baja,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00251,2016-03-02,-7.09673,-80.21943,Mórrope,Lambayeque,4.6,Mw,86.4,25.0,5,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00251,2016-03-02,-6.13116,-81.43394,Pimentel,Lambayeque,4.6,Mw,86.4,146.6,4,Baja,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00252,2011-05-01,-16.91107,-71.12212,Arequipa,Arequipa,5.8,Mw,29.2,65.5,7,Fuerte,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00252,2011-05-01,-14.78055,-72.09518,Atico,Arequipa,5.8,Mw,29.2,201.0,5,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00252,2011-05-01,-16.24185,-72.24955,Mollendo,Arequipa,5.8,Mw,29.2,77.2,6,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00252,2011-05-01,-16.76159,-72.28222,Chala,Arequipa,5.8,Mw,29.2,78.5,7,Fuerte,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00253,2023-03-09,-12.33517,-68.57268,Puerto Maldonado,Madre de Dios,4.6,Mw,15.2,34.5,5,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00254,2022-02-24,-13.50144,-71.82346,Quillabamba,Cusco,5.0,Mw,20.2,32.4,8,Fuerte,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00254,2022-02-24,-13.24941,-72.28314,Cusco,Cusco,5.0,Mw,20.2,26.8,7,Fuerte,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00254,2022-02-24,-13.86408,-72.04537,Espinar,Cusco,5.0,Mw,20.2,62.5,7,Fuerte,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00254,2022-02-24,-12.60816,-71.59514,Sicuani,Cusco,5.0,Mw,20.2,90.8,6,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00255,2019-08-28,-5.91893,-76.70959,Moyobamba,San Martín,4.6,Mw,13.6,33.8,7,Fuerte,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00255,2019-08-28,-6.40749,-76.29811,Juanjuí,San Martín,4.6,Mw,13.6,36.9,6,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00256,2020-08-06,-11.99928,-76.83085,Cañete,Lima,5.2,Mw,116.9,66.3,4,Baja,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00256,2020-08-06,-11.11716,-76.93998,San Vicente de Cañete,Lima,5.2,Mw,116.9,55.3,6,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00257,2019-08-11,-12.48578,-76.06603,Huancayo,Junín,4.5,Mw,5.9,57.1,5,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00257,2019-08-11,-11.85334,-75.42572,La Merced,Junín,4.5,Mw,5.9,83.7,6,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00257,2019-08-11,-12.22517,-75.77041,Tarma,Junín,4.5,Mw,5.9,47.6,6,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00258,2019-02-17,-12.95894,-75.35362,Ayacucho,Ayacucho,4.5,Mw,79.4,195.5,5,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00259,2019-12-24,-11.70791,-76.94482,Cañete,Lima,5.1,Mw,18.2,85.4,6,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00259,2019-12-24,-12.77497,-77.67674,Huaral,Lima,5.1,Mw,18.2,63.8,7,Fuerte,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00259,2019-12-24,-13.15512,-78.10345,Barranca,Lima,5.1,Mw,18.2,126.2,7,Fuerte,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00259,2019-12-24,-12.32917,-76.53503,Chosica,Lima,5.1,Mw,18.2,73.3,6,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00260,2021-09-12,-15.40369,-70.27629,Puno,Puno,4.9,Mw,58.8,48.5,5,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00261,2018-07-25,-8.81168,-76.77405,Pucallpa,Ucayali,4.6,Mw,17.7,298.3,3,Baja,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00261,2018-07-25,-6.6909,-73.45676,Atalaya,Ucayali,4.6,Mw,17.7,165.0,5,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00261,2018-07-25,-6.33947,-72.89922,Padre Abad,Ucayali,4.6,Mw,17.7,231.6,4,Baja,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00262,2017-10-03,-6.9839,-78.27169,Salaverry,La Libertad,4.6,Mw,15.3,63.9,4,Baja,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00263,2016-05-20,-16.84479,-71.59205,Ilo,Moquegua,4.7,Mw,86.7,88.3,6,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00263,2016-05-20,-18.13765,-71.65272,Moquegua,Moquegua,4.7,Mw,86.7,89.3,5,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00263,2016-05-20,-17.41364,-70.45449,Omate,Moquegua,4.7,Mw,86.7,72.1,4,Baja,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00264,2021-07-20,-15.6206,-67.74981,Puno,Puno,4.6,Mw,56.5,242.1,4,Baja,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00264,2021-07-20,-16.16496,-70.30059,Azángaro,Puno,4.6,Mw,56.5,47.6,5,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00265,2012-09-08,-6.68867,-83.81955,Lambayeque,Lambayeque,4.6,Mw,306.8,386.1,3,Baja,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00265,2012-09-08,-5.25409,-80.11073,Chiclayo,Lambayeque,4.6,Mw,306.8,160.8,3,Baja,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00266,2023-09-18,-11.60387,-76.93695,Lima,Lima,5.7,Mw,147.0,39.6,6,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00266,2023-09-18,-11.55809,-77.91885,Barranca,Lima,5.7,Mw,147.0,73.1,6,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00266,2023-09-18,-11.51124,-77.6701,Cañete,Lima,5.7,Mw,147.0,50.1,6,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00267,2010-09-20,-18.03872,-71.12759,Ilo,Moquegua,4.6,Mw,23.8,65.4,5,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00267,2010-09-20,-18.09676,-70.60669,Omate,Moquegua,4.6,Mw,23.8,20.3,7,Fuerte,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00267,2010-09-20,-18.52079,-69.72466,Moquegua,Moquegua,4.6,Mw,23.8,106.1,4,Baja,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00268,2015-04-14,-9.6179,-76.79947,Huaral,Lima,5.0,Mw,377.1,296.6,3,Baja,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00269,2016-12-01,-13.12001,-74.80747,Puquio,Ayacucho,5.2,Mw,44.1,60.4,7,Fuerte,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00269,2016-12-01,-13.33669,-74.18145,Ayacucho,Ayacucho,5.2,Mw,44.1,31.0,6,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00269,2016-12-01,-13.47222,-74.68068,Lucanas,Ayacucho,5.2,Mw,44.1,29.3,7,Fuerte,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00270,2016-03-18,-17.35425,-74.09716,Mollendo,Arequipa,4.6,Mw,85.7,268.2,4,Baja,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00270,2016-03-18,-14.45873,-72.526,Atico,Arequipa,4.6,Mw,85.7,229.2,4,Baja,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00270,2016-03-18,-18.42479,-73.25924,Camaná,Arequipa,4.6,Mw,85.7,274.4,4,Baja,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00270,2016-03-18,-15.28754,-70.25319,Chala,Arequipa,4.6,Mw,85.7,204.4,5,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00271,2016-06-26,-13.4482,-76.27349,Satipo,Junín,5.2,Mw,110.3,202.4,5,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00272,2024-08-30,-13.7158,-76.0379,Puquio,Ayacucho,4.5,Mw,149.6,117.0,5,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00272,2024-08-30,-13.42732,-74.31465,Lucanas,Ayacucho,4.5,Mw,149.6,85.8,4,Baja,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00273,2019-05-01,-11.4023,-76.70909,Padre Abad,Ucayali,4.6,Mw,14.2,382.9,4,Baja,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00273,2019-05-01,-8.54831,-72.19746,Pucallpa,Ucayali,4.6,Mw,14.2,307.5,5,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00273,2019-05-01,-7.30582,-73.31373,Atalaya,Ucayali,4.6,Mw,14.2,220.8,5,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00274,2012-10-27,-11.55092,-78.22012,San Vicente de Cañete,Lima,4.5,Mw,304.3,133.7,3,Baja,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00274,2012-10-27,-11.05595,-77.91218,Lima,Lima,4.5,Mw,304.3,154.5,4,Baja,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00274,2012-10-27,-11.98303,-76.07971,Chosica,Lima,4.5,Mw,304.3,130.3,3,Baja,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00274,2012-10-27,-12.91237,-76.04747,Cañete,Lima,4.5,Mw,304.3,147.1,2,Baja,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00275,2020-03-17,-9.89246,-76.23453,Ambo,Huánuco,4.6,Mw,28.3,50.6,7,Fuerte,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00276,2024-01-02,-8.2188,-77.12578,Mórrope,Lambayeque,5.1,Mw,60.5,325.8,5,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00276,2024-01-02,-5.1594,-82.00335,Pimentel,Lambayeque,5.1,Mw,60.5,310.8,6,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00277,2016-07-23,-3.59624,-79.59391,Sechura,Piura,4.6,Mw,154.0,235.2,6,Moderada,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00277,2016-07-23,-7.54449,-82.54708,Piura,Piura,4.6,Mw,154.0,311.3,3,Baja,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00278,2013-08-25,-11.46844,-76.93567,Ventanilla,Callao,6.0,Mw,28.5,37.2,8,Fuerte,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00279,2020-07-18,-6.62745,-80.15485,Chiclayo,Lambayeque,5.5,Mw,14.4,25.0,7,Fuerte,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True
+SIM-EQ00280,2015-01-29,-17.23765,-68.25029,Moquegua,Moquegua,4.6,Mw,28.2,276.5,4,Baja,SIMULADO,Generador sintético académico SISMO AI PERÚ (modelo de atenuación),True

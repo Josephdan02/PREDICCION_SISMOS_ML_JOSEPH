@@ -1,0 +1,31 @@
+# Configuracion de Streamlit para SISMO AI PERU
+# Tema oscuro base: el CSS personalizado de assets/styles.css refina la identidad.
+
+[theme]
+base = "dark"
+primaryColor = "#a78bfa"
+backgroundColor = "#070b18"
+secondaryBackgroundColor = "#0d1428"
+textColor = "#e9eefc"
+font = "sans serif"
+# Carga la fuente de iconos empaquetada en assets/fonts (ruta relativa a styles.css).
+fontFaces = ["assets/fonts/fontawesome-all.min.css"]
+
+[server]
+headless = true
+runOnSave = true
+
+# Sirve la carpeta assets/ como estatico para cargar la fuente de iconos local
+# (sin depender de internet para la iconografia).
+[server.enableStaticServing]
+enabled = true
+
+# En versiones recientes las carpetas estaticas se declaran como una lista:
+staticFolders = ["assets"]
+
+[browser]
+gatherUsageStats = false
+
+[client]
+toolbarMode = "minimal"
+showSidebarNavigation = false
